@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(105, 80, 250);
+    
+}
+.container{
+    margin: 5px;
+    padding: 5px;
+    justify-content: center;
+    align-content: center;
+    font-weight: bold;
+    color :rgb(0, 0, 0)
+}
+
+input{
+    height: 30px;
+    width: 150px;
+    border: 2px black solid;
+    background-color: rgb(151, 190, 234);
+}
+button{
+    height: 35px;
+    width: 150px;
+    border: 2px black solid;
+    background-color: rgb(151, 190, 234);
+}
